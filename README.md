@@ -1,17 +1,31 @@
-## Hi there 👋
 
-**Tobadave/tobadave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Hi, I'm David Toba  
+**Senior Software Engineer | Full-Stack Developer | AI & Frontend Specialist**
 
-Here are some ideas to get you started:
+🔭 I’m currently working on:
+- AI-enhanced platforms for global clients at Turing.com  
+- Scalable frontend systems using React, TypeScript, and Tailwind CSS, automating CI/CD workflows with Docker and GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🌱 I’m currently learning:
+- Advanced Machine Learning concepts using TensorFlow and OpenAI APIs  
+- Microservices architecture and distributed systems  
+- Cloud-native infrastructure on AWS
+
+👯 I’m looking to collaborate on:
+- Mostly AI-driven web apps  
+- Open-source projects in healthtech, edtech, or developer tools 
+
+💬 Ask me about (ofcourse):
+- Building full-stack systems with MERN  
+- React performance optimization & architecture  
+- Working remotely with global engineering teams
+
+📫 How to reach me:
+- Email: [tobadavid26@gmail.com](mailto:tobadavid26@gmail.com)  
+- LinkedIn: [linkedin.com/in/david-o-619a63268](https://linkedin.com/in/david-o-619a63268)
+
+😄 Pronouns: He/Him  
+⚡ Fun fact: I once cut frontend load time by 70% with one lazy-load tweak—and the design team never noticed (in a good way 😄).
 
 ----------
 
