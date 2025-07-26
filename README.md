@@ -1,32 +1,21 @@
 
 ### 👋 Hi, I'm David Toba  
-**Senior Software Engineer | Full-Stack Developer | AI & Frontend Specialist**
+**Software Engineer & currently building startup with a team!**
 
 🔭 I’m currently working on:
 - AI-enhanced platforms for global clients at Turing.com  
-- Scalable frontend systems using React, TypeScript, and Tailwind CSS, automating CI/CD workflows with Docker and GitHub Actions
+- Automating CI/CD workflows with Docker and GitHub Actions
 
 🌱 I’m currently learning:
 - Advanced Machine Learning concepts using TensorFlow and OpenAI APIs  
-- Microservices architecture and distributed systems  
-- Cloud-native infrastructure on AWS
+- Microservices architecture and distributed systems 
 
 👯 I’m looking to collaborate on:
-- Mostly AI-driven web apps  
-- Open-source projects in healthtech, edtech, or developer tools 
-
-💬 Ask me about (ofcourse):
-- Building full-stack systems with MERN  
-- React performance optimization & architecture  
-- Working remotely with global engineering teams
+- Mostly AI-driven web apps and Open-source projects in healthtech, edtech, or developer tools 
 
 📫 How to reach me:
 - Email: [tobadavid26@gmail.com](mailto:tobadavid26@gmail.com)  
 - LinkedIn: [linkedin.com/in/david-o-619a63268](https://linkedin.com/in/david-o-619a63268)
-
-😄 Pronouns: He/Him  
-⚡ Fun fact: I once cut frontend load time by 70% with one lazy-load tweak—and the design team never noticed (in a good way 😄).
-
 ----------
 
 ## Connect with me:
@@ -54,17 +43,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="30"/>
 </p>
-
----
-
-## 📊 GitHub Stats:
-
-| Most Used Languages | GitHub Stats |
-|---------------------|--------------|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight) |
-
----
-
-## ⚡ Recent Contributions
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night)
-
