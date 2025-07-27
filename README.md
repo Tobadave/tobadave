@@ -37,4 +37,5 @@
 - ✍️ I occasionally write about engineering, product ideas, and startup journeys.
 - 📬 Reach me via [LinkedIn](https://linkedin.com/in/david-o-619a63268) or [Email](mailto:tobadavid26@gmail.com)
 
+- Most of my works on GitHub are done on private agreement, you'll need to reach out to me to work!
 ---
