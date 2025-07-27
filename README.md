@@ -7,7 +7,7 @@
   - Distributed Systems & Microservice Architectures
 
 
-## 🔗 Programming Languages
+## Programming Languages
 
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
