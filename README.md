@@ -1,9 +1,9 @@
-<h1 align="center">Hi there, I'm David 👋</h1>
-<h3 align="center">Software Engineering Graduate & Full-Stack Developer</h3>
+<h1>David .O👋</h1>
+<h3>Software Engineering Graduate & Full-Stack Developer</h3>
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 🎓 I’m a **Software Engineering Graduate** passionate about building scalable platforms.
 - ⚡ **Core Focus:** Golang backend architecture, JS/React, and XR development (Unreal Engine & Unity).
