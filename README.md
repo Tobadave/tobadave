@@ -1,15 +1,22 @@
-# My Bio
+<h1 align="center">Hi there, I'm David 👋</h1>
+<h3 align="center">Software Engineering Graduate & Full-Stack Developer</h3>
 
--  I’m **David**, a Software Engineering Graduate,
-- I’m passionate about building scalable platforms, especially in AI and full-stack development.
--  I'm always learning and currently diving deeper into:
--  Data Science and Prediction tools
+---
+
+## 🚀 About Me
+
+- 🎓 I’m a **Software Engineering Graduate** passionate about building scalable platforms.
+- ⚡ **Core Focus:** Golang backend architecture, JS/React, and XR development (Unreal Engine & Unity).
+- 🧠 **Continuous Learning:** 
+  - Data Science & Prediction tools
   - Machine Learning with TensorFlow & OpenAI APIs
   - Distributed Systems & Microservice Architectures
 
+---
 
-## Programming Languages
+## 💻 Tech Stack
 
+### Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -19,24 +26,19 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-## 🧰 Platforms and Tools
-
+### Platforms & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
-
----
-- My Public Ropos are quite old, Most of my works on GitHub are done on private agreement, you'll need to reach out to me to work!
 ---
 
-- 🤝 I’m open to collaborating on **AI, full scalable web apps**, especially in healthtech, edtech, or open-source
+> 📌 **Note:** My public repositories are older. Most of my recent work is done under private agreements—feel free to reach out directly to see examples of my work!
+
+---
+
+## 🤝 Let's Connect
+
+- 🌱 Open to collaborating on **AI, scalable web apps, healthtech, and edtech**.
 - 📬 Reach me via [LinkedIn](https://linkedin.com/in/david-o-619a63268) or [Email](mailto:tobadavid26@gmail.com)
-
-
